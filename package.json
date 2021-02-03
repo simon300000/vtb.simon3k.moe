@@ -67,7 +67,7 @@
     "@vue/eslint-config-standard": "^5.1.2",
     "babel-eslint": "^10.0.3",
     "cluster-center": "file:api/mock/Cluster-center",
-    "copy-webpack-plugin": "^5.1.1",
+    "copy-webpack-plugin": "^6.4.1",
     "ddatnodejs": "file:api/mock/DDatHome-nodejs",
     "eslint": "^7.0.0",
     "eslint-plugin-import": "^2.20.1",
