@@ -34,7 +34,7 @@
     "nodejieba": "^2.3.5",
     "push.js": "^1.0.12",
     "register-service-worker": "^1.6.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.3.0",
     "state-center": "file:state-center",
     "subleveldown": "^5.0.0",
