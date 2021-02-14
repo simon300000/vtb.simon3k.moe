@@ -14,7 +14,7 @@
     "dev": "tsc -b -w"
   },
   "dependencies": {
-    "@koa/router": "^8.0.8",
+    "@koa/router": "^10.0.0",
     "bili-api": "^1.6.0",
     "bulma": "^0.8.0",
     "core-js": "^3.4.4",
