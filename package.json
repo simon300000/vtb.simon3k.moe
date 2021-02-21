@@ -83,7 +83,7 @@
     "vue-cli-plugin-element": "^1.0.1",
     "vue-template-compiler": "^2.5.21",
     "webpack": "^4.41.5",
-    "worker-loader": "^2.0.0",
+    "worker-loader": "^3.0.8",
     "zrender": "^4.2.0"
   },
   "engines": {
