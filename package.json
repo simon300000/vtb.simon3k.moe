@@ -29,7 +29,7 @@
     "level": "^6.0.0",
     "leveldown": "^5.5.1",
     "levelup": "^4.3.2",
-    "lru-cache": "^5.1.1",
+    "lru-cache": "^6.0.0",
     "moment": "^2.24.0",
     "nodejieba": "^2.3.5",
     "push.js": "^1.0.12",
