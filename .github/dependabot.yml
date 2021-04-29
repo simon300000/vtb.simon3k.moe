@@ -1,0 +1,35 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: typescript
+    versions:
+    - 4.1.3
+    - 4.1.4
+    - 4.1.5
+    - 4.2.2
+    - 4.2.3
+  - dependency-name: got
+    versions:
+    - 11.8.1
+  - dependency-name: ky
+    versions:
+    - 0.26.0
+  - dependency-name: sass-loader
+    versions:
+    - 10.1.1
+  - dependency-name: worker-loader
+    versions:
+    - 3.0.7
+  - dependency-name: ini
+    versions:
+    - 1.3.8
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: monthly
+  open-pull-requests-limit: 10
