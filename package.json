@@ -16,7 +16,7 @@
   "dependencies": {
     "@koa/router": "^8.0.8",
     "bili-api": "^1.6.0",
-    "bulma": "^0.8.0",
+    "bulma": "^0.9.3",
     "core-js": "^3.4.4",
     "cytoscape": "^3.13.0",
     "danmaku": "^2.0.0",
